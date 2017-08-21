@@ -1,4 +1,4 @@
-######Python######
+###### Python ######
 #Printing
 print = " a special statement... 'like' a function but not"
 
@@ -6,7 +6,7 @@ print = " a special statement... 'like' a function but not"
 
 
 
-######Moving in Atom######
+###### Moving in Atom ######
 #Navigating
 Ctrl+Home - Move to the top of the file
 Ctrl+End - Move to the bottom of the file
