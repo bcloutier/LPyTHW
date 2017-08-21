@@ -35,7 +35,7 @@ if door == '1':
         print "You do nothing, and lose your leg. Nice one, coward."
 elif door == '2':
     print "There you are, face-to-face with your middle school crush, "\
-             "Lauren Bass! Her face is just as you remember it,\nand her legs "\
+             "Lauren Gass! Her face is just as you remember it,\nand her legs "\
              "have been replaced with six mechanized spider legs, like from "\
              "Wild Wild West.\nShe touches one of her legs to your lips, and "\
              "asks you to slow dance. You hesitate, and she pulls a\nberretta "\
