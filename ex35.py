@@ -11,10 +11,10 @@ def gold_room():
     print "This room is full of gold. How much do you take?"
 
     choice = raw_input("> ")
-
-    if re.search('[a-zA-Z]',choice): # if there's a letter, exit
+    lettersPresent = re.search('[a-zA-Z]',choice) # if there's a letter, exit
+    if lettersPresent:
         dead("Man, learn to type a number")
-    if how_much < 50:
+    if choice < 50:
         print " Nice, you're not greedy, you have won"
         exit(0)
     else:
