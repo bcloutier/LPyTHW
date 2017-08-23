@@ -13,7 +13,7 @@ WORDS = []
 
 PHRASES = {
     "class %%%(%%%):":
-      "Make a class anmed %%% that is-a %%%.",
+      "Make a class named %%% that is-a %%%.",
     "class %%%(object):\n\tdef __init__(self, ***)":
       "class %%% has-a __init__ that takes self and *** as parameters.",
     "class %%%(object):\n\tdef ***(self, @@@)":
